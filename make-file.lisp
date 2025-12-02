@@ -1,4 +1,4 @@
-;;; 必要なファイルは３つ
+s;;; 必要なファイルは３つ
 ;;; 1) make-file.lisp
 ;;; 2) program-name.asd
 ;;; 3) main.lisp
@@ -14,4 +14,4 @@
 
 
 (require 'asdf)
-(asdf:operate 'asdf:load-op 'dungeon) 
+(asdf:operate 'asdf:load-op 'ndungeon) 
