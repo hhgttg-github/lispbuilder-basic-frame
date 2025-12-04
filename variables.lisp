@@ -21,3 +21,6 @@
 ;;;;=====================================
 ;;;;
 ;;;; VARIBLES
+
+(defparameter *sheet16* nil)
+(defparameter *sp* nil)
