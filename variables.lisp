@@ -24,3 +24,5 @@
 
 (defparameter *sheet16* nil)
 (defparameter *sp* nil)
+
+(defparameter *sp-list* nil)
